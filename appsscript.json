@@ -1,0 +1,20 @@
+{
+  "timeZone": "Europe/London",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "bmChroma",
+        "libraryId": "1zjBPTX8meADK6W2tbw-sNB0479OMN2hhT1O5MGna7v5liAj7paj-W8QE",
+        "version": "5",
+        "developmentMode": false
+      },
+      {
+        "userSymbol": "bmPreFiddler",
+        "libraryId": "13JUFGY18RHfjjuKmIRRfvmGlCYrEkEtN6uUm-iLUcxOUFRJD-WBX-tkR",
+        "version": "34"
+      }
+    ]
+  }
+}
